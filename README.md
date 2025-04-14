@@ -1,9 +1,8 @@
 # Databricks_movie_recommendation_system
-
+## [Collaborative Filtering based Movie Recommendation System: Using Databricks](https://medium.com/@mekavamsidath/collaborative-filtering-based-movie-recommendation-system-using-databricks-dbd7cdb385fb)
 ## Movies and Ratings dataset
 
-Source: (movies.csv, ratings.csv) downloaded from kaggle
-- https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system
+Source: (movies.csv, ratings.csv) - [kaggle](https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system)
 
 ## IMPLEMENTATION
 - Extracted a separate delta table from dbfs file upload
